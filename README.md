@@ -4,5 +4,5 @@
 - 🔭 Пока не работаю
 - 🌱 Учу алгоритмы и структуры данных/слежу за трендами в разработке
 - 📫 Мои соцсети
-[Instagram](https://www.instagram.com/sashafromlibertalia/)
-[Telegram](http://t.me/sashafromlibertalia)
+  - [Instagram](https://www.instagram.com/sashafromlibertalia/)
+  - [Telegram](http://t.me/sashafromlibertalia)
