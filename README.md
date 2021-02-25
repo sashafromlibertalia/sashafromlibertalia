@@ -6,4 +6,4 @@
 - 📫 Мои соцсети
   - [Instagram](https://www.instagram.com/sashafromlibertalia/)
   - [Telegram](http://t.me/sashafromlibertalia)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sashafromlibertalia=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashafromlibertalia)](https://github.com/sashafromlibertalia/github-readme-stats)
