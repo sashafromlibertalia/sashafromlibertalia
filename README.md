@@ -5,9 +5,8 @@
 Делаю сайты / мобильные приложения / ботов в Телеграм и ВКонтакте
 <br>
 > _**Открыт к сотрудничеству**_
-<br>
-<br>
-📫 Мои соцсети
+
+📫 Мои соцсети:
   - 🏀 [Dribbble](https://dribbble.com/sashafromlibertalia)
   - 📸 [Instagram](https://www.instagram.com/sashafromlibertalia/)
   - 💬 [Telegram](http://t.me/sashafromlibertalia)
