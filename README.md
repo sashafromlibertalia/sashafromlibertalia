@@ -11,4 +11,9 @@
   - 📸 [Instagram](https://www.instagram.com/sashafromlibertalia/)
   - 💬 [Telegram](http://t.me/sashafromlibertalia)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashafromlibertalia)](https://github.com/sashafromlibertalia/github-readme-stats)
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=sashafromlibertalia&show_icons=true&include_all_commits=true" />
+</div>
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=sashafromlibertalia&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-h=15&row=2&column=3" />
+</div>
