@@ -3,7 +3,10 @@ My name is Alex, i'm a first-year student of ITMO university.
 
 I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a year
 
-<img src="https://komarev.com/ghpvc/?username=sashafromlibertalia" alt="sashafromlibertalia" />
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=sashafromlibertalia" alt="sashafromlibertalia" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sashafromlibertalia.sashafromlibertalia" alt="sashafromlibertalia" />
+</div>
 
 > _**Opened to collaboration**_
 
