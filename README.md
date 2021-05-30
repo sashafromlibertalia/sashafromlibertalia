@@ -39,8 +39,8 @@ I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/sashafromlibertalia)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sashafromlibertalia)
 
-### 🔥 Favourite project (in progress)
-[![CarEmulator](https://github-readme-stats.vercel.app/api/pin/?username=sashafromlibertalia&repo=car-emulator)](https://github.com/sashafromlibertalia/car-emulator)
+### 🔥 Favourite project
+[![CarEmulator](https://github-readme-stats.vercel.app/api/pin/?username=sashafromlibertalia&repo=car-emulator&show_owner)](https://github.com/sashafromlibertalia/car-emulator)
 
 
 
