@@ -37,3 +37,8 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=sashafromlibertalia&show_icons=true&include_all_commits=true" />
 </div>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashafromlibertalia&show_icons=true&locale=en&layout=compact" alt="sashafromlibertalia" />
+</p>
+
