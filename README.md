@@ -5,7 +5,7 @@ I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a 
 
 <img src="https://komarev.com/ghpvc/?username=sashafromlibertalia" alt="sashafromlibertalia" />
 
-> _**Open for collaboration**_
+> _**Opened to collaboration**_
 
 
 ### ⚡️ Languages and frameworks I use 
