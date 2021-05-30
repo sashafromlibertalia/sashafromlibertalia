@@ -1,15 +1,14 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
-My name is Alex, i'm a first-year student of ITMO university.
 
+My name is Alex, i'm a first-year student of ITMO university. 
 I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a year
-
+    
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=sashafromlibertalia" alt="sashafromlibertalia" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sashafromlibertalia.sashafromlibertalia" alt="sashafromlibertalia" />
 </div>
 
 > _**Opened to collaboration**_
-
 
 ### ⚡️ Languages and frameworks I use 
 <div align="left">
@@ -39,6 +38,11 @@ I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sashafromlibertalia/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/sashafromlibertalia)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sashafromlibertalia)
+
+### 🔥 Favourite project (in progress)
+[![CarEmulator](https://github-readme-stats.vercel.app/api/pin/?username=sashafromlibertalia&repo=car-emulator)](https://github.com/sashafromlibertalia/car-emulator)
+
+
 
 ### 🔨  Other
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sashafromlibertalia&count_private=true&show_icons=true&include_all_commits=true)
