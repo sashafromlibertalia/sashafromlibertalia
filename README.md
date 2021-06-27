@@ -1,7 +1,8 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
 My name is Alex, i'm a first-year student of ITMO university. 
-I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a year
+I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a year.
+One of the founders of the [websect-itmo](https://github.com/websect-itmo).
     
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=sashafromlibertalia" alt="sashafromlibertalia" />
