@@ -2,9 +2,8 @@
 
 My name is Alex, i'm a first-year student of ITMO university. 
 I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a year.
-One of the founders of the [websect-itmo](https://github.com/websect-itmo).
-
-Founder of the telegram channel [built by sasha](https://t.me/builtbysasha)
+- One of the founders of the [websect-itmo](https://github.com/websect-itmo).
+-  Created [built by sasha](https://t.me/builtbysasha)
     
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=sashafromlibertalia" alt="sashafromlibertalia" />
