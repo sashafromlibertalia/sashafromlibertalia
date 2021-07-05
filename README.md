@@ -3,6 +3,8 @@
 My name is Alex, i'm a first-year student of ITMO university. 
 I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a year.
 One of the founders of the [websect-itmo](https://github.com/websect-itmo).
+
+Founder of the telegram channel [built by sasha](https://t.me/builtbysasha)
     
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=sashafromlibertalia" alt="sashafromlibertalia" />
@@ -38,7 +40,8 @@ One of the founders of the [websect-itmo](https://github.com/websect-itmo).
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashafromlibertalia@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sashafromlibertalia/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/sashafromlibertalia)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sashafromlibertalia)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sashafromlibertalia) 
+
 
 ### 🔥 Favourite project
 [![CarEmulator](https://github-readme-stats.vercel.app/api/pin/?username=sashafromlibertalia&repo=car-emulator&show_owner)](https://github.com/sashafromlibertalia/car-emulator)
