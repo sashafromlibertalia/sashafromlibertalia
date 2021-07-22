@@ -12,7 +12,7 @@ I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a 
 
 > _**Opened to collaboration**_
 
-### ⚡️ Languages, frameworks and tools I use 
+### ⚡️ My skills
 <div align="left">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
