@@ -51,5 +51,5 @@ I develop **sites**, **iOS apps**, **bots** for Telegram and VK for more than a 
 
 ### 🔨  Other
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sashafromlibertalia&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashafromlibertalia&hide=TeX,Shell,Makefile,C,HTML,PostScript,Python,Pascal,Roff,M4,CMake,c++&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashafromlibertalia&hide=TeX,Shell,Makefile,C,С++,HTML,PostScript,Python,Pascal,Roff,M4,CMake&layout=compact)
 
