@@ -7,8 +7,10 @@ I develop **sites**, **iOS apps** and **bots**. Also, I do modelling and cool de
     
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=sashafromlibertalia" alt="sashafromlibertalia" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sashafromlibertalia.sashafromlibertalia" alt="sashafromlibertalia" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sashafromlibertalia.sashafromlibertalia" alt="sashafromlibertalia" /> 
+  <a href="https://leetcode.com/sashafromlibertalia/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsashafromlibertalia&logo=leetcode&logoColor=yellow)" alt="sashafromlibertalia" /> </a>
 </div>
+
 
 > _**Opened to collaboration**_
 
@@ -43,6 +45,7 @@ I develop **sites**, **iOS apps** and **bots**. Also, I do modelling and cool de
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/sashafromlibertalia)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sashafromlibertalia) 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sashafromlibertalia)
+
 
 
 ### 🔥 Favourite project
