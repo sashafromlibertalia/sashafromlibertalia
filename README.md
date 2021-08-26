@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
+<h1 align="center">Hello!</h1>
 
 I'm Alexander, fullstack developer and designer based in Saint Petersburg 🇷🇺
 - One of the founders of the [websect-itmo](https://github.com/websect-itmo).
