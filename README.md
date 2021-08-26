@@ -1,7 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
-My name is Alex, i'm a second-year student of ITMO university. 
-I develop **sites**, **iOS apps** and **bots**. Also, I do modelling and cool designs 🥰
+I'm Alexander, fullstack developer and designer based in Saint Petersburg 🇷🇺
 - One of the founders of the [websect-itmo](https://github.com/websect-itmo).
 - Created [built by sasha](https://t.me/builtbysasha)
     
@@ -12,7 +11,7 @@ I develop **sites**, **iOS apps** and **bots**. Also, I do modelling and cool de
 </div>
 
 
-> _**Opened to collaboration**_
+> _**Opened to collaboration. Check my [CV](https://github.com/sashafromlibertalia/CV)**_
 
 ### ⚡️ My skills
 <div align="left">
@@ -49,8 +48,7 @@ I develop **sites**, **iOS apps** and **bots**. Also, I do modelling and cool de
 
 
 ### 🔥 Favourite project
-[![CarEmulator](https://github-readme-stats.vercel.app/api/pin/?username=sashafromlibertalia&repo=car-emulator&show_owner)](https://github.com/sashafromlibertalia/car-emulator)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sashafromlibertalia&repo=SchoolBot)](https://github.com/sashafromlibertalia/SchoolBot)
 
 
 ### 🔨  Other
