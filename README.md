@@ -48,7 +48,7 @@ I'm Alexander, fullstack developer and designer based in Saint Petersburg 🇷�
 
 
 ### 🔥 Favourite project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sashafromlibertalia&repo=SchoolBot)](https://github.com/sashafromlibertalia/SchoolBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sashafromlibertalia&repo=schoolbot)](https://github.com/sashafromlibertalia/SchoolBot)
 
 
 ### 🔨  Other
