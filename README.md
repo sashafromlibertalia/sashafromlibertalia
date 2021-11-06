@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
 
 I'm Alexander, fullstack developer and designer based in Saint Petersburg 🇷🇺
-- One of the founders of the [websect-itmo](https://github.com/websect-itmo).
+- Co-founder [websect-itmo](https://github.com/websect-itmo).
 - Created [built by sasha](https://t.me/builtbysasha)
     
 <div align="left">
