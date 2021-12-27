@@ -53,5 +53,5 @@ I'm Alexander, fullstack developer and designer based in Saint Petersburg 🇷�
 
 ### 🔨  Other
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sashafromlibertalia&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashafromlibertalia&hide=TeX,Shell,Makefile,C,c++, cpp,cplusplus,cplus-plus,html,PostScript,Python,Pascal,Roff,M4,CMake&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashafromlibertalia&hide=TeX,Shell,Makefile,C,c++,cpp,cplusplus,cplus-plus,html,PostScript,Python,Pascal,Roff,M4,CMake&layout=compact)
 
