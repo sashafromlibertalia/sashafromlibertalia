@@ -11,8 +11,6 @@ I'm Alexander, fullstack developer and designer based in Saint Petersburg 🇷�
 </div>
 
 
-> _**Opened to collaboration. Check my [CV](https://github.com/sashafromlibertalia/CV)**_
-
 ### ⚡️ My skills
 <div align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -41,6 +39,8 @@ I'm Alexander, fullstack developer and designer based in Saint Petersburg 🇷�
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sashafromlibertalia)
 
 ### 🚀  Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sashafromlibertalia&theme=github)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sashafromlibertalia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashafromlibertalia&hide=TeX,Shell,Makefile,C,c%2B%2B,html,PostScript,Python,Pascal,Roff,M4,CMake,css,scss,batchfile,handlebars&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=sashafromlibertalia)
 
