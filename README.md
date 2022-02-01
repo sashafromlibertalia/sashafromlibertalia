@@ -3,6 +3,8 @@
 I'm Alexander, fullstack developer and designer based in Saint Petersburg 🇷🇺
 - Co-founder [websect-itmo](https://github.com/websect-itmo).
 - Created [built by sasha](https://t.me/builtbysasha)
+
+<a href="https://www.buymeacoffee.com/fromlibertalia"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
     
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=sashafromlibertalia" alt="sashafromlibertalia" />
