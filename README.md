@@ -1,11 +1,25 @@
-<h1 align="center">Hello!</h1>
+## Hi there 👋
 
-<p align="center">
-  I'm Alexander, fullstack developer and designer based in Saint Petersburg 🇷🇺
-  <br>
-  Mainly work with React / Vue + C# / Nest
-  <br>
-  My CV is <a href="https://github.com/sashafromlibertalia/CV">here</a> ✌️
-</p>
+I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺.
+
+#### NOW
+
+- ✨ Developing my own startup [youwh.me](https://youwh.me);
+- 🎯 Watching anime
+
+#### BIO
+
+- 🏢 I'm currently working at the [ITMO University](https://itmo.ru)
+- ⚙️ I use daily: `.ts`, `.cs`
+- 🎸 Skilled guitar player, adore blues 
+- 🌱 Have experience of 3D modelling and `web` design
+- 📫 Reach me: [@sashafromlibertalia](https://t.me/sashafromlibertalia)
+
+
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
 
 ![Metrics](/github-metrics.svg)
+
+</details>
