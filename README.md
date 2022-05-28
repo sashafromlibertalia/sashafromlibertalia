@@ -10,7 +10,7 @@ I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺
 #### BIO
 
 - 🏢 I'm currently working at the [ITMO University](https://itmo.ru)
-- ⚙️ I use daily: `.ts`, `.cs`
+- ⚙️ I use daily: `.ts`, `.tsx`, `.cs`
 - 🎸 Skilled guitar player, adore blues 
 - 🌱 Have experience of 3D modelling and `web` design
 - 📫 Reach me: [@sashafromlibertalia](https://t.me/sashafromlibertalia)
