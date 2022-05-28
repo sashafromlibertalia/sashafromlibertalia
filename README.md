@@ -20,6 +20,6 @@ I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺.
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-<img src="/github-metrics.svg" width="200%">
+<img src="/github-metrics.svg" height="100%">
 
 </details>
