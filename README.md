@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺.
+I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺
 
 #### NOW
 
