@@ -14,6 +14,7 @@ I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺
 - 🎸 Skilled guitar player, adore blues 
 - 🌱 Have experience of 3D modelling and `web` design
 - 📫 Reach me: [@sashafromlibertalia](https://t.me/sashafromlibertalia)
+- 🍪 My [CV](https://github.com/sashafromlibertalia/CV)
 
 
 <details>
