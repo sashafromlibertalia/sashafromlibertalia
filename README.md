@@ -10,7 +10,7 @@ I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺
 #### <samp>BIO</samp>
 
 - 🏢 I'm currently working at the [ITMO University](https://itmo.ru)
-- 👨🏻‍💻 Cofounder of the small [web-dev community](https://github.com/websect-itmo) at the ITMO university
+- 👨🏻‍💻 Cofounder of the small [web-dev community](https://github.com/websect-itmo)
 - ⚙️ I use daily: `.ts`, `.tsx`, `.cs`
 - 🎸 Skilled guitar player, adore blues
 - 🌱 Have experience of 3D modelling and `web` design
