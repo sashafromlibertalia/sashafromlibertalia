@@ -4,7 +4,7 @@ I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺
 
 #### <samp>NOW</samp>
 
-- ✨ Developing my own startup [youwh.me](https://youwh.me)
+- ✨ Developing my own startup [@showresume](https://showresu.me)
 - 🎯 Watching anime
 
 #### <samp>BIO</samp>
