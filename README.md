@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺
 
 #### <samp>BIO</samp>
