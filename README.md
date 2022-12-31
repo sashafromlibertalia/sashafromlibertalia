@@ -8,5 +8,6 @@ I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺
 - 🎬 Love anime
 - 🎸 Skilled guitar player, adore blues
 - 🌱 Have experience of 3D modelling and `web` design. Check out my [dribbble](https://dribbble.com/sashafromlibertalia)
+- 🏔️ My [LinkedIn profile](https://www.linkedin.com/in/sashafromlibertalia/)
 - 📫 Reach me: [@sashafromlibertalia](https://t.me/sashafromlibertalia)
 - 🍪 My [CV](https://github.com/sashafromlibertalia/CV)
