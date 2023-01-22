@@ -5,7 +5,7 @@ I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺
 - 🏢 I'm currently working at the [ITMO University](https://itmo.ru)
 - 👨🏻‍💻 Cofounder of the small [web-dev community](https://github.com/websect-dev)
 - ⚙️ I use daily: `.ts`, `.tsx`, `.cs`
-- 🎬 Love anime
+- 🎬 Anime enjoyer
 - 🎸 Skilled guitar player, adore blues
 - 🌱 Have experience of 3D modelling and `web` design. Check out my [dribbble](https://dribbble.com/sashafromlibertalia)
 - 🏔️ My [LinkedIn profile](https://www.linkedin.com/in/sashafromlibertalia/)
