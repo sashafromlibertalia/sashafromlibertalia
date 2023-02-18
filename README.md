@@ -1,5 +1,3 @@
-I'm a Full-Stack Developer based in Saint Petersburg 🇷🇺
-
 #### <samp>BIO</samp>
 
 - 🏢 I'm currently working at the [ITMO University](https://itmo.ru)
