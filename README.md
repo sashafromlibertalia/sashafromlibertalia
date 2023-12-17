@@ -1,6 +1,6 @@
 #### <samp>BIO</samp>
 
-- 🏢 I'm currently working at the [ITMO University](https://itmo.ru)
+- 🏢 I'm a frontend engineer of [YooMoney](https://yoomoney.ru/)
 - 👨🏻‍💻 Cofounder of the small [web-dev community](https://github.com/websect-dev)
 - ⚙️ I use daily: `.ts`, `.tsx`, `.cs`
 - 🎬 Anime enjoyer
